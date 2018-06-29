@@ -1,5 +1,7 @@
-バーチャル文豪
-===
+# バーチャル文豪
+- このプログラムは2018年6月29日のドワンゴエンジニアハッカソン（お題：バーチャル）で書かれた。
+
+
 ## 使用法
 ```
 pip install -r requirements.txt
@@ -17,9 +19,11 @@ to
 >やはりドワンゴと云う新クリエイティブのリーダーシップの会社な名を付けておく方が彼等のためによかろうと思う。。クリエイティブでもない。。互いに相インターネットをある、互いに相世界埋もれて、ついには才能人たくさんのいを取り、世間に歯すべからざるに至るものなり。。するで持っ自らは発信の意欲のネットのユーザーのこれな存在国であった。。ドワンゴがそのテクノロジーであるから、結集のオープンなどは、元よりプラットフォームもして動画るコンテンツがなかった。
 
 
-## Thanks
-- 本プログラムに含まれる文学作品データ（resourcesディレクトリの中身）の複製・再配布等にあたっては青空文庫及び青空文庫形態素解析データ集の規約を参照されたい
-- それ以外のプログラムは<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.1/jp/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.1/jp/88x31.png" /></a><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.1/jp/">クリエイティブ・コモンズ 表示 - 継承 2.1 日本 ライセンス</a>に従う
+## LICENSE
+- 本プログラムに含まれる文学作品データ（resourcesディレクトリの中身）の複製・再配布等にあたっては青空文庫及び青空文庫形態素解析データ集の規約を参照されたい。
+- それ以外のプログラムは<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.1/jp/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.1/jp/88x31.png" /></a><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.1/jp/">クリエイティブ・コモンズ 表示 - 継承 2.1 日本 ライセンス</a>に従う。
+
+## THANKS
 - 青空文庫工作員のみなさま
   - [〔雨ニモマケズ〕](https://www.aozora.gr.jp/cards/000081/card45630.html)
   - [山月記](https://www.aozora.gr.jp/cards/000119/card624.html)
