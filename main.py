@@ -12,9 +12,13 @@ def main():
         sentences = [text]
     modulated_sentences = []
     for sentence in sentences:
-        modulated_sentences.append(modulate(sentence))
+        modulated_sentence = modulate(sentence)
+        if modulated_sentence == "":
+            continue
+        modulated_sentences.append(modulated_sentence)
+    
     print("")
-    print("。".join(modulated_sentences))
+    print(("。".join(modulated_sentences) + "。").replace("。。", "。"))
 
 
 def modulate(sentence):
